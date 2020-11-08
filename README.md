@@ -33,8 +33,18 @@ As cartas são necessárias para que os jogadores possam eliminar os suspeitos e
 ### Como utilizar o bot
 **Prefixo:** det!
 
-#### Iniciado o jogo
-Utilize o comando: det!jogar
+#### 1. Iniciando o jogo
+Utilize o comando: det!jogar<br>
+![Alt text](https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/print1.PNG "Comando Jogar")<br>
+Todos os jogadores que forem participar da partida devem reagir com o emote de verificado. Após todos terem reagido, clique no emote de ok.
+
+#### 2. Selecionando o assassino e distribuindo as cartas
+Depois de ter sido confirmada a partida o bot avisará que as cartas foram entregadas aos participantes e o assassino foi definido.<br>
+![Alt text](https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/print2.PNG "Trabalhando com as cartas")<br>
+
+O bot entregará as cartas no privado:
+![Alt text](https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/print2.PNG "Trabalhando com as cartas")<br>
+
 
 
 
