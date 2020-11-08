@@ -10,14 +10,29 @@ O Detetive Bot é um bot de Discord desenvolvido para que os usuários possam jo
 [Convidar o detetive Bot ao meu servidor](https://discord.com/api/oauth2/authorize?client_id=753686837117059162&permissions=8&scope=bot)
 
 ### Regras
+
+<p align="center">
+  <img src="https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/rules.png">
+</p>
+
 [Guia explicativo das regras](https://www.bananaquantica.com.br/como-jogar-detetive/)
 
 ### Tabuleiro
+
+<p align="center">
+  <img src="https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/table.png">
+</p>
+
 Para o tabuleiro virtual, você precisará ter uma conta no site Roll20 e acessar este [link](https://app.roll20.net/campaigns/details/8490759/detetive). Depois clique em configurações e seleciona "Copiar jogo", coloque o nome que desejar e convide seus amigos que irão jogar com você.<br>
 Para adicionar os peões, ao entrar no tabuleiro, selecione a aba "Biblioteca de Arte" e em "Free Assets" selecione o modelo que preferir para cada jogador.<br>
 Cada quadrado no tabuleiro virtual é equivalente a um quadrado no tabuleiro real, os pinos representam as entradas nos locais.
 
 ### Cartas
+
+<p align="center">
+  <img src="https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/cards.png">
+</p>
+
 As cartas são necessárias para que os jogadores possam eliminar os suspeitos e que o assassino seja definido. Dentre as cartas que estarão no jogo estão:<br>
 
 | Locais          | Armas        | Personagens                 |
