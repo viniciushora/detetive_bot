@@ -26,6 +26,6 @@ As cartas são necessárias para que os jogadores possam eliminar os suspeitos e
 | Praça Central   | Arma Química | Médica Dona Violeta         |
 | Mansão          | Veneno       | Coveiro Sérgio Noturno      |
 | Hotel           | Espingarda   | Mordomo James               |
-| Cemitério       |              |                             |
-| Estação de Trem |              |                             |
-| Boate           |              |                             |
+| Cemitério       |     ---      |             ---             |
+| Estação de Trem |     ---      |             ---             |
+| Boate           |     ---      |             ---             |
