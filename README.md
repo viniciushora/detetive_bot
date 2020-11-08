@@ -29,3 +29,12 @@ As cartas são necessárias para que os jogadores possam eliminar os suspeitos e
 | Cemitério       |     ---      |             ---             |
 | Estação de Trem |     ---      |             ---             |
 | Boate           |     ---      |             ---             |
+
+### Como utilizar o bot
+**Prefixo:** det!
+
+#### Iniciado o jogo
+Utilize o comando: det!jogar
+
+
+
