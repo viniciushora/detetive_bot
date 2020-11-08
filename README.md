@@ -1,6 +1,8 @@
 # Documentação do Detetive Bot
 
-![Alt text](https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/logo.png "Logo")<br>
+<p align="center">
+  <img src="https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/logo.png">
+</p>
 
 ### Sobre o Detetive Bot
 O Detetive Bot é um bot de Discord desenvolvido para que os usuários possam jogar uma versão adaptada do jogo Detetive da Estrela pelo Discord. O bot realiza tarefas esseciais para o jogo como distribuir as cartas, escolher o assassino e rolar o dado. A função de tabuleiro é feita pelo tabuleiro oficial do Detetive Bot no Roll20.
