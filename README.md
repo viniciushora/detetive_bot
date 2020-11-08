@@ -47,8 +47,11 @@ O bot entregará as cartas no privado:<br>
 
 #### 3. Revelando o assassino
 Para revelar o assassino digite o comando det!assasssino:<br>
-![Alt text](https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/print3.PNG "Revelado o assassino")<br>
+![Alt text](https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/print4.PNG "Revelado o assassino")<br>
 
+#### 4. Resetando o jogo
+Para reiniciar o jogo digite o comando det!resetar:<br>
+![Alt text](https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/print5.PNG "Jogo resetado")<br>
 
 
 
