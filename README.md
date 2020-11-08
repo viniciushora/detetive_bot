@@ -42,8 +42,12 @@ Todos os jogadores que forem participar da partida devem reagir com o emote de v
 Depois de ter sido confirmada a partida o bot avisará que as cartas foram entregadas aos participantes e o assassino foi definido.<br>
 ![Alt text](https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/print2.PNG "Trabalhando com as cartas")<br>
 
-O bot entregará as cartas no privado:
-![Alt text](https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/print2.PNG "Trabalhando com as cartas")<br>
+O bot entregará as cartas no privado:<br>
+![Alt text](https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/print3.PNG "Suas cartas")<br>
+
+#### 3. Revelando o assassino
+Para revelar o assassino digite o comando det!assasssino:<br>
+![Alt text](https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/print3.PNG "Revelado o assassino")<br>
 
 
 
