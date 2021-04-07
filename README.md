@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/logo.png">
 </p>
+## Sobre o Detetive Bot
 
-### Sobre o Detetive Bot
 O Detetive Bot é um bot de Discord desenvolvido para que os usuários possam jogar uma versão adaptada do jogo Detetive da Estrela pelo Discord. O bot realiza tarefas esseciais para o jogo como distribuir as cartas, escolher o assassino e rolar o dado. A função de tabuleiro é feita pelo tabuleiro oficial do Detetive Bot no Roll20.
 
 [Convidar o detetive Bot ao meu servidor](https://discord.com/api/oauth2/authorize?client_id=753686837117059162&permissions=8&scope=bot)
@@ -55,17 +55,20 @@ As cartas são necessárias para que os jogadores possam eliminar os suspeitos e
 | Estação de Trem |     ---      |             ---             |
 | Boate           |     ---      |             ---             |
 
-### Como utilizar o bot
+## Como utilizar o bot
+
 **Prefixo: det!**
 
-#### 1. Iniciando o jogo
+### Iniciando o jogo
+
 Utilize o comando: **det!jogar**<br>
 
 ![Alt text](https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/print1.PNG "Comando Jogar")<br>
 
 Todos os jogadores que forem participar da partida devem reagir com o emote de verificado. Após todos terem reagido, clique no emote de ok.
 
-#### 2. Selecionando o assassino e distribuindo as cartas
+### Selecionando o assassino e distribuindo as cartas
+
 Depois de ter sido confirmada a partida o bot avisará que as cartas foram entregadas aos participantes e o assassino foi definido.<br>
 
 ![Alt text](https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/print2.PNG "Trabalhando com as cartas")<br>
@@ -74,12 +77,14 @@ O bot entregará as cartas no privado:<br>
 
 ![Alt text](https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/print3.PNG "Suas cartas")<br>
 
-#### 3. Revelando o assassino
+### Revelando o assassino
+
 Para revelar o assassino digite o comando **det!assasssino**:<br>
 
 ![Alt text](https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/print4.PNG "Revelado o assassino")<br>
 
-#### 4. Resetando o jogo
+### Resetando o jogo
+
 Para reiniciar o jogo digite o comando **det!resetar**:<br>
 
 ![Alt text](https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/print5.PNG "Jogo resetado")<br>
