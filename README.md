@@ -1,4 +1,5 @@
 # Documentação do Detetive Bot
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 <p align="center">
   <img src="https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/logo.png">
