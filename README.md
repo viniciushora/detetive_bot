@@ -29,9 +29,7 @@ O Detetive Bot é um bot de Discord desenvolvido para que os usuários possam jo
   <img img width="200" height="200" src="https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/table.png">
 </p>
 
-Para o tabuleiro virtual, você precisará ter uma conta no site Roll20 e acessar este [link](https://app.roll20.net/campaigns/details/8490759/detetive). Depois clique em configurações e seleciona "Copiar jogo", coloque o nome que desejar e convide seus amigos que irão jogar com você.<br>
-Para adicionar os peões, ao entrar no tabuleiro, selecione a aba "Biblioteca de Arte" e em "Free Assets" selecione o modelo que preferir para cada jogador.<br>
-Cada quadrado no tabuleiro virtual é equivalente a um quadrado no tabuleiro real, os pinos representam as entradas nos locais.
+Para o tabuleiro virtual, você precisará ter uma baixar o mapa em [link](https://drive.google.com/file/d/1q1OGmuhr5y3aaVVLe-eDj1PJ0PpsSm87/view?usp=sharing). Depois deve utilizar algo serviço de tabuleiro online, como o Roll20, por exemplo. Ao usar o mapa com tabuleiro, a proporção deve ser de 1:1, sendo cada quadrado da imagem, um quadrado do tabuleiro na plataforma escolhida. Em seguida, crie os personagens de cada jogador, convide-os para seu jogo e dê-os o controle da peça.
 
 <h1 align="center">
   Cartas
