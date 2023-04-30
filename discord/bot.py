@@ -103,7 +103,7 @@ async def ajuda(ctx):
 
 @bot.command()
 async def tabuleiro(ctx):
-    await ctx.send("Clique em configurações e vá em 'Copiar Jogo': https://app.roll20.net/campaigns/details/8490759/detetive")
+    await ctx.send("Confira a seção Tabuleiro em: https://github.com/ViniciusHora1009/detetive_bot")
 
 @bot.command()
 async def comandos(ctx):
@@ -119,4 +119,4 @@ async def comandos(ctx):
     embed_comandos.add_field(name="resetar", value="Reseta todas as informações da partida", inline=False)
     await ctx.send(embed=embed_comandos)
 
-bot.run('INSIRA O BOT TOKEN')
+bot.run('INSIRA O TOKEN DO BOT')
