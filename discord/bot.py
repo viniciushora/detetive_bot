@@ -1,15 +1,14 @@
 import discord
 import random
-import os
-from discord.utils import get
-import logging
-import asyncio
 
 from discord.ext import commands
 
 global assassinato, servers
 
-bot = commands.Bot(command_prefix='det!')
+intents = discord.Intents.default()
+intents.message_content = True
+
+bot = commands.Bot(command_prefix='det!', intents=intents)
 
 servers = {}
 
@@ -34,14 +33,14 @@ async def jogar(ctx):
             colour=discord.Colour.red()
         )
         emb_msg = await ctx.send(embed=select)
-        await emb_msg.add_reaction(emoji="✅")
-        await emb_msg.add_reaction(emoji="👌")
+        await emb_msg.add_reaction("✅")
+        await emb_msg.add_reaction("👌")
         ok = 0
         while ok == 0:
             reaction, user = await bot.wait_for('reaction_add', timeout=None)
-            if str(reaction.emoji) == "✅" and str(user) != "Detetive Bot#8075":
+            if str(reaction) == "✅" and str(user) != "Detetive Bot#1694":
                 jogadores.append(user)
-            if str(reaction.emoji) == "👌" and str(user) != "Detetive Bot#8075":
+            if str(reaction) == "👌" and str(user) != "Detetive Bot#1694":
                 ok = 1
         cartas = cartas_locais + cartas_armas + cartas_suspeitos
         local = cartas_locais[random.randint(0, len(cartas_locais)-1)]
@@ -120,4 +119,4 @@ async def comandos(ctx):
     embed_comandos.add_field(name="resetar", value="Reseta todas as informações da partida", inline=False)
     await ctx.send(embed=embed_comandos)
 
-bot.run('BOT TOKEN')
+bot.run('INSIRA O BOT TOKEN')
