@@ -19,7 +19,7 @@ O Detetive Bot é um bot de Discord desenvolvido para que os usuários possam jo
   <img img width="200" height="200" src="https://github.com/ViniciusHora1009/detetive_bot/blob/main/imagens/rules.png">
 </p>
 
-[Guia explicativo das regras](https://www.bananaquantica.com.br/como-jogar-detetive/)
+[Guia explicativo das regras](https://estrela.vteximg.com.br/arquivos/Manual-Detetive-Com-App.pdf)
 
 <h1 align="center">
   Tabuleiro
